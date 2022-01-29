@@ -1,1 +1,1 @@
-print('LOL12')
+print('LOL56')

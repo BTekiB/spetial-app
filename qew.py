@@ -1,1 +1,2 @@
-print('LOL56')
+<<<<<<< HEAD
+print('LOL42')

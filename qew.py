@@ -1,2 +1,2 @@
 
-print('LOL42')
+print('Lololololooo')

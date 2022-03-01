@@ -1,2 +1,2 @@
 
-print('MIV')
+print('MIZARI')

@@ -1,3 +1,3 @@
 
-print('lol')
+print('ppty')
 print('ttt')

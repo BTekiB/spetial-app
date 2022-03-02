@@ -1,2 +1,3 @@
 
-print('MIZARI3333')
+print('lol')
+print('ttt')
